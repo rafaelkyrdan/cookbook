@@ -1,2 +1,2 @@
 # cookbook
-Project for self-education
+Project for self-education. In progress.
