@@ -1,0 +1,9 @@
+/**
+  * Incrementing var with methods
+  */
+
+var a = 1
+a += 1
+a -= 1
+a *= 2
+a /= 2
