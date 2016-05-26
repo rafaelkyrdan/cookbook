@@ -5,4 +5,5 @@ Project for self-education. In progress.
 1. Strings
 2. Numbers
 3. Control Structures
-4. ...
+4. Classes and properties
+5. ...
