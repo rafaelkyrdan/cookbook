@@ -9,4 +9,7 @@ Project for self-education. In progress.
 5. Methods
 6. Objects
 7. Packaging and imports
-8. ...
+8. Traits
+9. Functional Programming
+10. ...
+
