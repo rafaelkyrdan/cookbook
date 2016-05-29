@@ -8,4 +8,5 @@ Project for self-education. In progress.
 4. Classes and properties
 5. Methods
 6. Objects
-7. ...
+7. Packaging and imports
+8. ...
