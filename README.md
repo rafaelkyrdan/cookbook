@@ -11,5 +11,6 @@ Project for self-education. In progress.
 7. Packaging and imports
 8. Traits
 9. Functional Programming
-10. ...
+10. Collections
+11. ...
 
