@@ -12,5 +12,6 @@ Project for self-education. In progress.
 8. Traits
 9. Functional Programming
 10. Collections
-11. ...
+11. More collections
+12. ...
 
