@@ -10,7 +10,7 @@ import scala.language.postfixOps
 object GracefulStopTest extends App {
 
   val system = ActorSystem("GracefulStopTest")
-  val testActor = system.actorOf(Props[TestActor], name = "TestActor")
+  val testActor = system.actorOf(Props[TestActor2], name = "TestActor")
   // try to stop the actor gracefully
   try {
     val stopped: Future[Boolean] = gracefulStop(testActor, 2 seconds)
@@ -25,7 +25,7 @@ object GracefulStopTest extends App {
 
 }
 
-class TestActor extends Actor {
+class TestActor2 extends Actor {
   def receive = {
     case _ => println("TestActor got message")
   }
