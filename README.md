@@ -17,7 +17,8 @@ Project for self-education. In progress.
 13. Actors and concurrency
 14. Command-Line Tasks
 15. Web Services
-16. Databases
-17. ...
+16. Interacting with java
+17. SBT
+18. ...
 
 
