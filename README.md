@@ -18,7 +18,7 @@ Project for self-education. In progress.
 14. Command-Line Tasks
 15. Web Services
 16. Interacting with java
-17. SBT
+17. Types
 18. ...
 
 
