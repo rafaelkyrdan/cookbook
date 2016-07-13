@@ -1,5 +1,5 @@
 # cookbook
-Project for self-education. In progress.
+Project for self-education.
 
 ## Content
 1. Strings
